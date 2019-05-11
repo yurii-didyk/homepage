@@ -5,3 +5,7 @@
 .contacts li a.instagram:hover {
     color: dimgrey;
   }
+p i {
+    margin-left: 20px; margin-right: 20px;
+}
+

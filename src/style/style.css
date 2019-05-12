@@ -1,5 +1,5 @@
 .contacts li a.twitter:hover {
-    color: dimgrey;
+    color: dimgray;
   }
 
 .contacts li a.instagram:hover {
@@ -8,4 +8,6 @@
 p i {
     margin-left: 20px; margin-right: 20px;
 }
+
+
 
